@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903440942464",
+    "project_id": "android-prueba-3",
+    "storage_bucket": "android-prueba-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903440942464:android:cf1c07288d7e9140f0ad65",
+        "android_client_info": {
+          "package_name": "com.bastianrebolledo.prueba3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903440942464-sl4l68ia3t95m566v6p49m59vi28u0fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiXr2P0vmkdDYfajiHl7qbwtk8kfOI4ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903440942464-sl4l68ia3t95m566v6p49m59vi28u0fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

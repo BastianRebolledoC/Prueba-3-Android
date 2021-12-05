@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase y MQTT</string>
+    <string name="title">App Sensores con Firebase y MQTT</string>
+    <string name="btn_mqtt">🤖 Ver valores enviados desde MQTT</string>
+    <string name="sub_title">Valores almacenados en Firebase:</string>
+    <string name="sub_title_mqtt">Aquí se pueden ver los datos enviados a traves del broker sensores, los mensajes llegado podrán ser guardados en Firebase</string>
+    <string name="answer">¿Guardar sensor en Firebase?</string>
+</resources>
